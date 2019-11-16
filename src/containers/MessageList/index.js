@@ -31,7 +31,7 @@ export default function MessageList() {
                       time: {moment(comment.dateAdded).format('LTS')} 
                    </span>
                    </li>
-               </ul>
+                  </ul>
                </div>
             ) 
         )}
